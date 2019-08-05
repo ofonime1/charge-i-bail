@@ -1,0 +1,93 @@
+.main-container{
+    background-image: url(../assets/images/rodion-kutsaev-IJ25m7fXqtk-unsplash.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.welcome-area {
+    min-height: 100vh;
+}
+
+.logo{
+    text-align: center;
+}
+.nav-link{
+    color: #00454A;
+    font-weight: bold;
+}
+.container{
+    /* background-color: #371A2E; */
+   
+    color: #00454A;
+    /* margin-left: 13%; */
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+.client{
+    color: #0056B3;
+    font-size: 24px;
+}
+
+    .card{
+        box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+        /* background-color: rgb(255, 255, 247); */
+        color: #00454A;
+        /* background-color: #DCDCE1; */
+        
+
+    }
+   
+    
+
+
+
+.content{
+    text-align: right;
+}
+
+.label{
+ text-align: center;
+ 
+}
+.row{
+    margin-left: 10%;
+    font-size: 18px;
+}
+
+.badge{
+    margin-bottom: -10px;
+    margin-left: 40%;
+    font-size: 40px;
+    box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0  rgb(255, 255, 247);
+    color: #0056B3;
+    
+}
+.rescued {
+    /* text-align: right; */
+    margin-left: 200px;
+    margin-top: 80px;
+
+}
+.footer{
+    background-color: #EFB700;
+}
+.map-container-6{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container-6 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
